@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Archivo de Index</h1>
-    
+    <h2>Línea de codigo número 1</h2>
     <h3>Línea número 3 de código</h3>
 </body>
 </html>
